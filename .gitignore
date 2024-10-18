@@ -8,3 +8,8 @@ demos/raw_data/
 demos/input_data/
 demos/input_data_deltaR/
 demos/trained_*/
+
+black_box3/input_data
+black_box3/plots
+black_box3/raw_data
+black_box3/trained_*/
